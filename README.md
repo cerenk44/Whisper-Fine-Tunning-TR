@@ -42,8 +42,7 @@ Veri ön işleme adımları şunları içerir:
 ## Model Detayları
 
 * **Temel Model:** `openai/whisper-small`
-* **İyileştirilmiş Model (Hugging Face Hub):** `[SENİN_KULLANICI_ADIN]/[SENİN_MODEL_ADIN]` (Örn: `aysunn/whisper-small-tr`)
-    * Bu linki kendi modelinizin Hugging Face Hub'daki linki ile güncelleyin.
+* **İyileştirilmiş Model (Hugging Face Hub):** `aysunn/whisper-small-tr`
 * **Dil:** Türkçe
 * **Görev:** Otomatik Konuşma Tanıma (Transkripsiyon)
 
